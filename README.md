@@ -1,2 +1,2 @@
-# nadani-demo
+# nandani-demo
 This is my first Git Repository
